@@ -4,6 +4,7 @@
  * binary_tree_node - create tree
  * @parent: parent struct
  * @value: value at node
+ * Return: node pointer
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
